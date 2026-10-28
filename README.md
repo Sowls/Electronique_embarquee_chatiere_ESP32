@@ -1,4 +1,4 @@
-# 🐾 Smart Cat Flap — Système d'Ouverture Automatisé sous ESP32
+# Smart Cat Flap — Système d'Ouverture Automatisé sous ESP32
 
 ![Langage](https://img.shields.io/badge/Langage-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B)
 ![Plateforme](https://img.shields.io/badge/Plateforme-ESP32-E7352C?style=flat-square&logo=espressif)
@@ -8,7 +8,7 @@ Système embarqué de contrôle de chatière motorisée basé sur un microcontr�
 
 ---
 
-## 📋 Fonctionnalités principales
+## Fonctionnalités principales
 
 * **Double déclenchement (Automatique & Manuel) :**
   * **Capteur de mouvement (PIR) :** Ouverture automatique à l'approche de l'animal avec maintien en position haute pendant 10 secondes avant fermeture.
@@ -21,7 +21,7 @@ Système embarqué de contrôle de chatière motorisée basé sur un microcontr�
 
 ---
 
-## 🛠️ Architecture Matérielle & Brochage (Pinout)
+## Architecture Matérielle & Brochage (Pinout)
 
 ### Table d'interconnexion (ESP32)
 
