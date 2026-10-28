@@ -1,4 +1,4 @@
-# Smart Cat Flap — Système d'Ouverture Automatisé sous ESP32
+# Système d'Ouverture Automatisé de chatiere sous ESP32
 
 ![Langage](https://img.shields.io/badge/Langage-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B)
 ![Plateforme](https://img.shields.io/badge/Plateforme-ESP32-E7352C?style=flat-square&logo=espressif)
