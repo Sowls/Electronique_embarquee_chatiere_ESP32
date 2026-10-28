@@ -3,7 +3,6 @@
 ![Langage](https://img.shields.io/badge/Langage-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B)
 ![Plateforme](https://img.shields.io/badge/Plateforme-ESP32-E7352C?style=flat-square&logo=espressif)
 ![Simulation](https://img.shields.io/badge/Simulateur-Wokwi-4CAF50?style=flat-square)
-![Licence](https://img.shields.io/badge/Licence-MIT-blue?style=flat-square)
 
 Système embarqué de contrôle de chatière motorisée basé sur un microcontrôleur **ESP32**. Ce projet met en œuvre une **machine à états finis non-bloquante**, une **commande synchronisée de servomoteurs en opposition**, un **pilotage infrarouge/PIR**, ainsi qu'un **étage de filtrage acoustique RC** conçu pour le confort auditif de l'animal.
 
